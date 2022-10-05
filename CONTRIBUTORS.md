@@ -10,7 +10,7 @@
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
 - 
-- #### Name: [Muhammad Fahad Kayani](https://github.com/fahadevs)
+#### Name: [Muhammad Fahad Kayani](https://github.com/fahadevs)
 
 - Place: Rawalpindi, Pakistan
 - Bio: Third Year BSCS Student 

@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+- 
+- #### Name: [Muhammad Fahad Kayani](https://github.com/fahadevs)
+
+- Place: Rawalpindi, Pakistan
+- Bio: Third Year BSCS Student 
+- GitHub: [fahadevs](https://github.com/fahadevs)
